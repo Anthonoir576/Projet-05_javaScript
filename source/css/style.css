@@ -1,3 +1,8 @@
-
+html,
+body {
+  overflow-x: hidden;
+  font-family: "Teko", sans-serif !important;
+  letter-spacing: 4px;
+}
 
 /*# sourceMappingURL=style.css.map */
